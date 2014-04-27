@@ -1,6 +1,7 @@
 package com.pablomartinez.wave.robot.util;
 
 import java.net.URLEncoder;
+import java.util.Random;
 
 public class RobotUtils {
 
@@ -25,6 +26,5 @@ public class RobotUtils {
 		
 		return strWaveRef;
 				
-	}
-	
+	}	
 }
